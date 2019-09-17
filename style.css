@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main{
+    background-color: whitesmoke;
+    padding: 15px;
+}
+.logo{
+    background-color: grey;
+    font-size: 10pt;
+}
+.logo p{
+    padding: 5px;
+}
+.logo p span{
+    float: right;
+    padding-right: 55px;
+}
+.wrapper1{
+    overflow: hidden;
+    margin-top: 15px;
+}
+.box1, .box2, .box3, .box4{
+    height: 100px;
+    width: 20%;
+    float: left;
+    background-color: grey;
+    margin-bottom: 5px;
+}
+
+.box1{
+    margin-right: 7%;
+}
+.box2{
+    margin-right: 7%;
+}
+.box3{
+    margin-right: 6%;
+}
+.box4{
+    float:right;
+}
+.wrapper2{
+    overflow: hidden;
+    margin-top: 15px;
+}
+.wrapper2 p{
+    text-align: center;
+    font-size: 10pt;
+    padding-top: 140px;
+}
+.box5, .box6, .box7{
+    height: 300px;
+    width: 30%;
+    float: left;
+    background-color: grey;
+}
+.box5{
+    margin-right: 5%;
+}
+.box6{
+    margin-right: 5%;
+}
+.box7{
+    float: right;
+}
+.footer{
+     background-color: grey;
+    font-size: 10pt;
+    margin-top: 15px;
+    padding: 10px;
+    text-align: center;
+}
